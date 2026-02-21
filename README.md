@@ -1,1 +1,1 @@
-это сайт который много обходов и тд.
+vless://95407b9d-a1de-406c-996b-90b0f4932af0@51.250.94.57:8081?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4326#%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D1%8E%D1%82%D1%83%D0%B1%D0%B0%2C%D1%82%D0%B3%20%7C%7C%20%D1%8E%D1%82%D1%83%D0%B1%2C%D1%82%D0%B3
